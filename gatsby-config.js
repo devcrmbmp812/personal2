@@ -3,7 +3,7 @@ module.exports = {
     title: 'Travis Yates Full Stack Developer (The best way to predict the future is to create it)',
     author: 'Travis Yates',
     description: 'Travis Yates Personal Website.',
-    siteUrl: 'https://nicklin.netlify.com/',
+    siteUrl: 'https://travis.netlify.com/',
   },
   plugins: [
     {
